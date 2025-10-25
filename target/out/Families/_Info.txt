@@ -1,0 +1,7 @@
+VERSION: "0.0.1",
+GAME_VERSION_MAJOR: 69,
+GAME_VERSION_MINOR: 0,
+NAME: "Families",
+DESC: "newmod",
+AUTHOR: "EmiTheWitch",
+INFO: "newmod",

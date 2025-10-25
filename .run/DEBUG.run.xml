@@ -1,0 +1,19 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="DEBUG" type="Application" factoryName="Application">
+    <option name="ALTERNATIVE_JRE_PATH" value="corretto-1.8" />
+    <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+    <classpathModifications>
+      <entry path="C:\Backup\Project Fun\Songs of Syx\V69\base\script\001_Tutorial.jar" />
+      <entry path="C:\Backup\Project Fun\Songs of Syx\V69\base\script\000_Tutorial.jar" />
+      <entry path="$PROJECT_DIR$/target/Families.jar" />
+    </classpathModifications>
+    <option name="MAIN_CLASS_NAME" value="init.MainProcess" />
+    <module name="newmod" />
+    <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../Project Fun/Songs of Syx/V69" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+      <option name="Maven.BeforeRunTask" enabled="true" file="$PROJECT_DIR$/pom.xml" goal="clean" />
+      <option name="Maven.BeforeRunTask" enabled="true" file="$PROJECT_DIR$/pom.xml" goal="install" />
+    </method>
+  </configuration>
+</component>
